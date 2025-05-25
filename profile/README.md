@@ -1,5 +1,5 @@
 <picture>
-  <img alt="cupolalabs logo" src="https://raw.githubusercontent.com/cupolalabs/.github/main/assets/github-banner.svg" width="auto" height="120">
+  <img alt="cupolalabs logo" src="https://raw.githubusercontent.com/cupolalabs/.github/main/assets/github-banner.svg" width="100%" height="auto">
 </picture>
 
 **Cupola Labs** builds open source AI infrastructure and developer tooling. Focused, fast, and production-ready.
